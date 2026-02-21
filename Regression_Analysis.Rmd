@@ -1,0 +1,145 @@
+---
+title: "Research ADDS- Jonathan 2"
+author: "Jonathan Mishayel"
+date: "2024-08-27"
+output: html_document
+---
+
+
+
+```{r}
+getwd()
+```
+
+
+
+```{r}
+df <- read.csv(file.choose(), header =T)
+df
+```
+
+```{r}
+View(df)
+```
+
+
+```{r}
+str(df)
+```
+
+
+```{r}
+sum(is.na(df))
+```
+
+
+
+```{r}
+table(df$guardian_education)
+```
+
+
+
+
+```{r}
+library(ggplot2)
+ggplot(df , aes(final_grade,absences))+
+  geom_point(color = 'blue')+
+  labs(title ='Scatter Plot')
+```
+
+
+```{r}
+# Convert variables to factor
+df$guardian_education <- as.factor(df$guardian_education)
+df$family_relationship <- as.factor(df$family_relationship)
+df$family_size <- as.factor(df$family_size)
+df$parent_status <- as.factor(df$parent_status)
+df$family_support <- as.factor(df$family_support)
+```
+
+
+# Regression
+
+
+```{r}
+
+
+# Fit multiple linear regression
+objective1 <- lm(final_grade ~ 
+                   family_relationship + 
+                   guardian_education + 
+                   family_size+
+                   parent_status+
+                   family_support+
+                   absences,
+                
+                 data = df)
+
+summary(objective1)
+```
+
+#Distribution of Final Grade 
+
+```{r}
+library(ggplot2)
+ggplot(df, aes(x = final_grade)) +
+  geom_histogram(bins = 10) +
+  labs(title = "Distribution of Final Grade",
+       x = "Final Grade",
+       y = "Count") +
+  theme_minimal()
+```
+
+
+```{r}
+ggplot(df, aes(x = final_grade)) +
+  geom_density() +
+  labs(title = "Density Plot of Final Grade",
+       x = "Final Grade",
+       y = "Density") +
+  theme_minimal()
+```
+
+#Distribution of Absences
+
+```{r}
+ggplot(df, aes(x = absences)) +
+  geom_histogram(bins = 15) +
+  labs(title = "Distribution of Absences",
+       x = "Number of Absences",
+       y = "Count") +
+  theme_minimal()
+```
+
+#Final Grade by Guardian Education
+
+```{r}
+ggplot(df, aes(x = guardian_education, y = final_grade)) +
+  geom_boxplot() +
+  labs(title = "Final Grade by Guardian Education",
+       x = "Guardian Education",
+       y = "Final Grade") +
+  theme_minimal()
+```
+
+
+
+
+
+
+```{r}
+barplot(table(df$guardian_education), col = c("red", "green"), main = "Guardian Education Level", xlab = "Category", ylab = "Count")
+```
+
+
+
+
+
+
+
+
+
+
+
+

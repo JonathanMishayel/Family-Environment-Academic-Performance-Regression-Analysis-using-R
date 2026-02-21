@@ -1,0 +1,396 @@
+student_id,sex,age,family_size,parent_status,guardian_education,guardian,study_time,school_support,family_support,extra_paid_classes,higher_ed,romantic_relationship,family_relationship,weekday_alcohol,weekend_alcohol,absences,grade_1,grade_2,final_grade
+1,F,18,Greater than 3,Apart,higher education,mother,2 to 5 hours,yes,no,no,yes,no,4,1,1,6,5,6,6
+2,F,17,Greater than 3,Living together,primary education (4th grade),father,2 to 5 hours,no,yes,no,yes,no,5,1,1,4,5,5,6
+3,F,15,Less than or equal to 3,Living together,primary education (4th grade),mother,2 to 5 hours,yes,no,yes,yes,no,4,2,3,10,7,8,10
+4,F,15,Greater than 3,Living together,primary education (4th grade),mother,5 to 10 hours,no,yes,yes,yes,yes,3,1,1,2,15,14,15
+5,F,16,Greater than 3,Living together,secondary education,father,2 to 5 hours,no,yes,yes,yes,no,4,1,2,4,6,10,10
+6,M,16,Less than or equal to 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,5,1,2,10,15,15,15
+7,M,16,Less than or equal to 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,no,no,yes,no,4,1,1,0,12,12,11
+8,F,17,Greater than 3,Apart,higher education,mother,2 to 5 hours,yes,yes,no,yes,no,4,1,1,6,6,5,6
+9,M,15,Less than or equal to 3,Apart,secondary education,mother,2 to 5 hours,no,yes,yes,yes,no,4,1,1,0,16,18,19
+10,M,15,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,yes,yes,yes,no,5,1,1,0,14,15,15
+11,F,15,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,3,1,2,0,10,8,9
+12,F,15,Greater than 3,Living together,primary education (4th grade),father,5 to 10 hours,no,yes,no,yes,no,5,1,1,4,10,12,12
+13,M,15,Less than or equal to 3,Living together,higher education,father,<2 hours,no,yes,yes,yes,no,4,1,3,2,14,14,14
+14,M,15,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,5,1,2,2,10,10,11
+15,M,15,Greater than 3,Apart,higher education,other,5 to 10 hours,no,yes,no,yes,yes,4,1,1,0,14,16,16
+16,F,16,Greater than 3,Living together,higher education,mother,<2 hours,no,yes,no,yes,no,4,1,2,4,14,14,14
+17,F,16,Greater than 3,Living together,higher education,mother,5 to 10 hours,no,yes,yes,yes,no,3,1,2,6,13,14,14
+18,F,16,Greater than 3,Living together,secondary education,mother,2 to 5 hours,yes,yes,no,yes,no,5,1,1,4,8,10,10
+19,M,17,Greater than 3,Living together,secondary education,mother,<2 hours,no,yes,no,yes,no,5,2,4,16,6,5,5
+20,M,16,Less than or equal to 3,Living together,secondary education,father,<2 hours,no,no,yes,yes,no,3,1,3,4,8,10,10
+21,M,15,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,no,no,yes,no,4,1,1,0,13,14,15
+22,M,15,Greater than 3,Living together,higher education,father,<2 hours,no,yes,yes,yes,no,5,1,1,0,12,15,15
+23,M,16,Less than or equal to 3,Living together,higher education,mother,2 to 5 hours,no,no,no,yes,no,4,1,3,2,15,15,16
+24,M,16,Less than or equal to 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,yes,no,yes,no,5,2,4,0,13,13,12
+25,F,15,Greater than 3,Living together,grade 5th to 9th,mother,5 to 10 hours,yes,yes,yes,yes,no,4,1,1,2,10,9,8
+26,F,16,Greater than 3,Living together,grade 5th to 9th,mother,<2 hours,no,yes,yes,yes,no,1,1,3,14,6,9,8
+27,M,15,Greater than 3,Living together,grade 5th to 9th,mother,<2 hours,no,yes,yes,yes,no,4,1,2,2,12,12,11
+28,M,15,Greater than 3,Living together,higher education,mother,<2 hours,no,no,yes,yes,no,2,2,4,4,15,16,15
+29,M,16,Less than or equal to 3,Apart,secondary education,mother,2 to 5 hours,yes,yes,no,yes,no,5,1,1,4,11,11,11
+30,M,16,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,yes,4,5,5,16,10,12,11
+31,M,15,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,5,3,4,0,9,11,12
+32,M,15,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,no,yes,no,4,1,1,0,17,16,17
+33,M,15,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,no,yes,yes,4,1,1,0,17,16,16
+34,M,15,Less than or equal to 3,Living together,secondary education,mother,2 to 5 hours,no,no,no,yes,no,5,1,1,0,8,10,12
+35,M,16,Greater than 3,Living together,secondary education,mother,<2 hours,no,yes,yes,yes,no,5,1,1,0,12,14,15
+36,F,15,Greater than 3,Living together,secondary education,father,<2 hours,no,yes,no,yes,no,3,1,1,0,8,7,6
+37,M,15,Less than or equal to 3,Living together,higher education,mother,5 to 10 hours,no,yes,no,yes,no,5,1,1,2,15,16,18
+38,M,16,Greater than 3,Apart,higher education,mother,5 to 10 hours,no,yes,no,yes,yes,2,1,1,7,15,16,15
+39,F,15,Greater than 3,Living together,secondary education,mother,5 to 10 hours,yes,yes,yes,yes,no,4,1,1,2,12,12,11
+40,F,15,Greater than 3,Living together,grade 5th to 9th,mother,<2 hours,yes,yes,yes,yes,no,4,1,1,8,14,13,13
+41,F,16,Less than or equal to 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,yes,no,yes,yes,3,1,2,25,7,10,11
+42,M,15,Less than or equal to 3,Living together,higher education,other,<2 hours,no,yes,no,yes,yes,5,2,4,8,12,12,12
+43,M,15,Greater than 3,Living together,higher education,father,2 to 5 hours,no,yes,no,yes,no,4,1,1,2,19,18,18
+44,M,15,Greater than 3,Living together,grade 5th to 9th,father,<2 hours,yes,yes,no,yes,no,5,1,1,0,8,8,11
+45,F,16,Less than or equal to 3,Living together,grade 5th to 9th,father,2 to 5 hours,yes,no,no,yes,no,4,2,2,14,10,10,9
+46,F,15,Less than or equal to 3,Apart,higher education,mother,2 to 5 hours,yes,yes,yes,yes,yes,5,1,1,8,8,8,6
+47,F,16,Less than or equal to 3,Apart,secondary education,mother,2 to 5 hours,no,yes,no,yes,no,2,1,4,12,11,12,11
+48,M,16,Greater than 3,Living together,higher education,mother,>10 hours,no,no,no,yes,no,4,1,1,4,19,19,20
+49,M,15,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,4,2,2,2,15,15,14
+50,F,15,Greater than 3,Living together,higher education,father,2 to 5 hours,yes,yes,no,yes,no,4,1,1,2,7,7,7
+51,F,16,Less than or equal to 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,yes,yes,yes,no,4,2,3,2,12,13,13
+52,F,15,Less than or equal to 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,4,1,1,2,11,13,13
+53,M,15,Less than or equal to 3,Apart,grade 5th to 9th,father,<2 hours,no,no,no,yes,no,5,3,4,6,11,11,10
+54,F,15,Greater than 3,Living together,higher education,mother,<2 hours,yes,yes,yes,yes,no,3,2,3,0,8,10,11
+55,F,15,Less than or equal to 3,Apart,secondary education,mother,<2 hours,no,no,yes,yes,no,5,4,4,6,10,13,13
+56,F,16,Greater than 3,Apart,grade 5th to 9th,mother,2 to 5 hours,no,no,yes,yes,yes,5,1,1,8,8,9,10
+57,F,15,Greater than 3,Apart,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,4,1,1,0,14,15,15
+58,M,15,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,no,yes,no,3,1,1,4,14,15,15
+59,M,15,Less than or equal to 3,Living together,primary education (4th grade),father,2 to 5 hours,yes,yes,no,yes,no,4,1,1,2,9,10,9
+60,F,16,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,no,yes,no,4,1,1,2,15,16,16
+61,F,16,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,no,yes,no,2,2,3,6,10,11,11
+62,F,16,Greater than 3,Living together,primary education (4th grade),father,<2 hours,yes,yes,no,yes,yes,5,5,5,6,10,8,11
+63,F,16,Less than or equal to 3,Living together,grade 5th to 9th,father,2 to 5 hours,yes,no,no,yes,no,4,1,1,4,8,10,9
+64,F,16,Greater than 3,Living together,higher education,mother,5 to 10 hours,yes,yes,yes,yes,no,3,2,4,2,10,9,9
+65,F,15,Less than or equal to 3,Living together,secondary education,father,2 to 5 hours,yes,no,no,yes,yes,4,2,4,0,10,10,10
+66,F,16,Less than or equal to 3,Living together,higher education,mother,2 to 5 hours,no,yes,no,yes,no,5,1,2,2,16,15,15
+67,M,15,Greater than 3,Apart,higher education,mother,>10 hours,no,yes,no,yes,yes,1,5,5,4,13,13,12
+68,F,16,Greater than 3,Living together,secondary education,mother,>10 hours,yes,yes,yes,yes,no,4,1,2,4,7,7,6
+69,F,15,Less than or equal to 3,Living together,grade 5th to 9th,mother,2 to 5 hours,yes,yes,yes,yes,no,4,1,3,2,8,9,8
+70,F,15,Less than or equal to 3,Living together,primary education (4th grade),father,>10 hours,no,yes,no,yes,no,4,2,3,12,16,16,16
+71,M,16,Greater than 3,Living together,primary education (4th grade),father,>10 hours,no,yes,yes,yes,no,4,1,1,0,13,15,15
+72,M,15,Greater than 3,Living together,higher education,mother,>10 hours,no,no,no,yes,no,3,1,1,0,10,10,10
+73,F,15,Greater than 3,Living together,primary education (4th grade),mother,2 to 5 hours,yes,yes,no,yes,yes,3,2,4,2,8,6,5
+74,M,16,Greater than 3,Living together,secondary education,mother,<2 hours,no,no,no,yes,no,5,2,2,2,12,12,14
+75,F,16,Greater than 3,Living together,secondary education,mother,2 to 5 hours,yes,yes,yes,yes,no,4,2,4,54,11,12,11
+76,M,15,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,4,2,3,6,9,9,10
+77,M,15,Greater than 3,Living together,higher education,mother,>10 hours,no,no,no,yes,no,3,1,1,8,11,11,10
+78,F,16,Greater than 3,Living together,grade 5th to 9th,mother,>10 hours,no,no,yes,yes,yes,5,1,3,0,11,11,11
+79,M,17,Greater than 3,Living together,grade 5th to 9th,mother,<2 hours,yes,yes,no,no,no,4,1,1,2,8,8,10
+80,F,16,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,yes,no,yes,no,2,1,2,12,5,5,5
+81,M,15,Greater than 3,Living together,secondary education,father,<2 hours,yes,yes,yes,yes,yes,3,1,3,2,10,12,12
+82,M,15,Greater than 3,Living together,grade 5th to 9th,mother,5 to 10 hours,yes,no,yes,yes,no,5,1,2,4,11,10,11
+83,F,15,Less than or equal to 3,Living together,secondary education,mother,2 to 5 hours,no,yes,yes,yes,no,4,1,1,10,7,6,6
+84,M,15,Less than or equal to 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,no,yes,yes,no,5,1,3,4,15,15,15
+85,F,15,Greater than 3,Living together,primary education (4th grade),father,2 to 5 hours,no,yes,no,yes,no,4,2,3,2,9,10,10
+86,F,15,Greater than 3,Living together,higher education,father,2 to 5 hours,no,no,yes,yes,yes,4,2,3,6,7,9,8
+87,F,16,Less than or equal to 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,yes,no,yes,no,4,1,2,4,8,7,6
+88,F,15,Greater than 3,Living together,higher education,mother,5 to 10 hours,no,yes,no,yes,no,5,1,3,4,13,14,14
+89,M,16,Greater than 3,Living together,grade 5th to 9th,father,2 to 5 hours,no,no,yes,yes,no,4,1,1,12,11,10,10
+90,M,16,Less than or equal to 3,Apart,higher education,mother,2 to 5 hours,no,yes,no,yes,no,4,3,5,18,8,6,7
+91,F,16,Greater than 3,Living together,secondary education,mother,5 to 10 hours,no,yes,yes,yes,yes,4,1,3,0,7,7,8
+92,F,15,Greater than 3,Living together,higher education,mother,<2 hours,no,no,yes,yes,no,4,1,3,4,16,17,18
+93,F,16,Less than or equal to 3,Living together,primary education (4th grade),father,2 to 5 hours,yes,yes,no,yes,no,3,2,3,4,7,6,6
+94,F,16,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,5,1,1,0,11,10,10
+95,M,15,Less than or equal to 3,Living together,grade 5th to 9th,mother,>10 hours,no,yes,no,yes,no,4,1,1,6,11,13,14
+96,F,15,Greater than 3,Living together,primary education (4th grade),mother,>10 hours,yes,yes,yes,yes,no,3,1,1,2,7,10,10
+97,M,16,Greater than 3,Living together,higher education,mother,<2 hours,yes,yes,no,yes,no,3,1,1,2,11,15,15
+98,F,16,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,yes,yes,yes,yes,4,1,1,2,8,9,10
+99,F,16,Greater than 3,Living together,higher education,mother,<2 hours,no,no,no,yes,no,5,1,2,6,11,14,14
+100,F,16,Greater than 3,Living together,higher education,mother,5 to 10 hours,yes,yes,yes,yes,no,5,1,1,0,7,9,8
+101,M,16,Greater than 3,Living together,higher education,mother,<2 hours,yes,yes,yes,yes,no,4,5,5,14,7,7,5
+102,M,16,Greater than 3,Living together,higher education,father,5 to 10 hours,no,yes,no,yes,yes,4,1,1,0,16,17,17
+103,M,15,Greater than 3,Living together,higher education,mother,<2 hours,no,yes,no,yes,no,5,1,1,4,10,13,14
+104,F,15,Greater than 3,Living together,secondary education,mother,2 to 5 hours,yes,yes,yes,yes,no,4,1,1,26,7,6,6
+105,M,15,Greater than 3,Apart,secondary education,mother,2 to 5 hours,no,yes,yes,yes,no,5,1,1,0,16,18,18
+106,F,15,Greater than 3,Apart,secondary education,father,>10 hours,yes,no,no,yes,no,4,1,1,10,10,11,11
+107,F,15,Greater than 3,Living together,grade 5th to 9th,mother,>10 hours,yes,yes,yes,yes,no,5,1,1,8,7,8,8
+108,M,16,Greater than 3,Living together,secondary education,father,5 to 10 hours,no,yes,no,yes,no,5,1,1,2,16,18,18
+109,M,15,Greater than 3,Living together,higher education,father,>10 hours,no,yes,yes,yes,yes,1,3,5,6,10,13,13
+110,F,16,Less than or equal to 3,Living together,higher education,mother,5 to 10 hours,no,yes,yes,yes,yes,5,1,1,4,14,15,16
+111,M,15,Less than or equal to 3,Apart,higher education,mother,<2 hours,no,no,no,yes,no,5,1,1,6,18,19,19
+112,F,16,Greater than 3,Living together,secondary education,father,5 to 10 hours,yes,yes,no,yes,no,4,1,1,0,7,10,10
+113,F,16,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,yes,no,no,yes,no,3,1,1,6,10,13,13
+114,M,15,Less than or equal to 3,Living together,higher education,mother,<2 hours,no,no,no,yes,no,3,1,1,10,18,19,19
+115,M,15,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,no,no,yes,yes,5,1,1,8,9,9,9
+116,M,16,Greater than 3,Living together,higher education,father,2 to 5 hours,no,yes,no,yes,no,5,1,2,2,15,15,16
+117,M,15,Greater than 3,Living together,higher education,father,2 to 5 hours,no,yes,no,yes,no,4,1,1,2,11,13,14
+118,M,16,Greater than 3,Living together,secondary education,father,<2 hours,no,no,no,yes,no,5,1,1,0,13,14,13
+119,M,17,Greater than 3,Living together,secondary education,father,2 to 5 hours,no,yes,no,yes,no,5,1,4,20,9,7,8
+120,M,15,Greater than 3,Living together,higher education,father,<2 hours,no,no,no,yes,no,3,1,2,6,14,13,13
+121,F,15,Greater than 3,Living together,primary education (4th grade),mother,2 to 5 hours,no,no,no,yes,no,3,1,2,2,16,15,15
+122,M,15,Greater than 3,Living together,grade 5th to 9th,father,>10 hours,no,yes,yes,yes,no,5,1,2,6,16,14,15
+123,F,16,Less than or equal to 3,Living together,higher education,father,2 to 5 hours,no,yes,yes,yes,yes,4,1,2,2,13,13,13
+124,M,16,Greater than 3,Living together,higher education,mother,<2 hours,no,yes,no,yes,no,3,1,4,18,14,11,13
+125,F,16,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,no,yes,yes,yes,5,1,1,0,8,7,8
+126,M,15,Greater than 3,Living together,higher education,father,<2 hours,yes,no,no,yes,no,5,3,2,0,13,13,12
+127,F,15,Less than or equal to 3,Apart,secondary education,mother,2 to 5 hours,yes,no,no,yes,yes,5,1,1,0,7,10,11
+128,F,19,Greater than 3,Living together,secondary education,other,2 to 5 hours,no,yes,no,no,no,3,1,1,2,7,8,9
+129,M,18,Greater than 3,Living together,grade 5th to 9th,mother,<2 hours,no,yes,no,yes,no,3,1,2,0,7,4,0
+130,M,16,Greater than 3,Living together,higher education,mother,<2 hours,no,no,yes,yes,no,3,2,5,8,18,18,18
+131,F,15,Greater than 3,Living together,higher education,father,5 to 10 hours,no,yes,no,yes,yes,4,2,2,0,12,0,0
+132,F,15,Greater than 3,Living together,primary education (4th grade),mother,<2 hours,no,yes,no,yes,yes,4,1,2,0,8,0,0
+133,F,17,Less than or equal to 3,Living together,grade 5th to 9th,father,<2 hours,no,yes,no,yes,yes,3,1,3,12,10,13,12
+134,F,16,Greater than 3,Apart,higher education,father,<2 hours,no,no,no,yes,no,3,1,4,16,12,11,11
+135,M,15,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,yes,no,yes,yes,5,1,1,0,9,0,0
+136,F,15,Greater than 3,Living together,higher education,mother,5 to 10 hours,no,yes,no,yes,yes,4,1,1,0,11,0,0
+137,M,17,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,no,no,yes,no,5,2,4,0,10,0,0
+138,F,16,Greater than 3,Apart,secondary education,other,<2 hours,no,yes,no,yes,yes,4,1,1,0,4,0,0
+139,M,16,Less than or equal to 3,Living together,primary education (4th grade),mother,2 to 5 hours,no,no,no,yes,yes,4,1,3,0,14,12,12
+140,F,15,Greater than 3,Living together,higher education,mother,<2 hours,no,no,no,yes,no,4,1,1,0,16,16,15
+141,M,15,Greater than 3,Living together,secondary education,father,>10 hours,yes,yes,no,yes,no,2,1,1,0,7,9,0
+142,M,16,Less than or equal to 3,Living together,grade 5th to 9th,father,<2 hours,no,yes,no,yes,no,2,2,2,8,9,9,9
+143,F,15,Greater than 3,Living together,higher education,mother,5 to 10 hours,no,yes,yes,yes,no,4,1,1,2,9,11,11
+144,F,16,Less than or equal to 3,Living together,primary education (4th grade),mother,<2 hours,no,no,no,yes,no,3,3,3,2,14,14,13
+145,M,17,Greater than 3,Living together,grade 5th to 9th,mother,<2 hours,no,yes,no,yes,no,5,1,2,0,5,0,0
+146,F,15,Greater than 3,Living together,primary education (4th grade),father,2 to 5 hours,no,yes,yes,yes,no,4,1,2,0,8,11,11
+147,F,15,Greater than 3,Living together,grade 5th to 9th,father,2 to 5 hours,no,yes,no,yes,no,3,1,1,0,6,7,0
+148,F,15,Greater than 3,Living together,primary education (4th grade),mother,2 to 5 hours,no,yes,yes,yes,no,4,1,1,2,10,11,11
+149,M,16,Greater than 3,Living together,higher education,mother,<2 hours,no,yes,no,no,yes,3,2,1,0,7,6,0
+150,M,15,Less than or equal to 3,Apart,grade 5th to 9th,mother,<2 hours,no,no,no,yes,no,4,2,5,0,8,9,10
+151,M,18,Less than or equal to 3,Living together,primary education (4th grade),mother,<2 hours,no,no,no,no,yes,2,2,5,0,6,5,0
+152,M,16,Less than or equal to 3,Living together,grade 5th to 9th,mother,<2 hours,no,no,no,yes,yes,4,3,5,6,12,13,14
+153,F,15,Greater than 3,Living together,secondary education,other,5 to 10 hours,no,yes,yes,yes,yes,4,2,3,8,10,10,10
+154,M,19,Greater than 3,Living together,secondary education,mother,<2 hours,no,yes,no,no,yes,4,1,1,0,5,0,0
+155,F,17,Greater than 3,Living together,higher education,mother,<2 hours,yes,yes,no,yes,yes,4,1,1,0,11,11,12
+156,M,15,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,yes,no,yes,yes,no,4,1,1,2,11,8,8
+157,M,17,Less than or equal to 3,Living together,primary education (4th grade),mother,<2 hours,no,no,no,yes,no,2,3,3,8,16,12,13
+158,F,18,Greater than 3,Living together,primary education (4th grade),mother,<2 hours,no,yes,no,yes,no,5,1,5,6,9,8,10
+159,M,16,Greater than 3,Living together,grade 5th to 9th,mother,<2 hours,no,no,no,yes,no,4,1,2,2,17,15,15
+160,M,16,Greater than 3,Living together,secondary education,father,2 to 5 hours,no,yes,yes,yes,yes,4,4,4,4,10,12,12
+161,M,17,Less than or equal to 3,Living together,grade 5th to 9th,mother,<2 hours,no,no,no,no,yes,3,2,2,0,7,6,0
+162,M,15,Greater than 3,Living together,secondary education,mother,2 to 5 hours,yes,yes,no,yes,yes,4,1,4,6,5,9,7
+163,M,16,Less than or equal to 3,Living together,primary education (4th grade),mother,<2 hours,no,no,no,yes,no,4,2,4,0,7,0,0
+164,M,17,Greater than 3,Living together,secondary education,father,<2 hours,no,no,no,no,no,5,1,4,2,10,10,10
+165,M,17,Less than or equal to 3,Living together,primary education (4th grade),mother,2 to 5 hours,no,no,no,no,yes,5,1,5,0,5,8,7
+166,M,16,Greater than 3,Living together,secondary education,mother,<2 hours,no,yes,no,no,no,4,1,1,16,12,11,12
+167,M,16,Greater than 3,Living together,grade 5th to 9th,father,2 to 5 hours,no,no,no,no,no,4,2,4,4,10,10,10
+168,F,16,Greater than 3,Living together,grade 5th to 9th,father,2 to 5 hours,no,no,yes,yes,yes,4,1,1,0,14,15,16
+169,F,16,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,yes,yes,yes,no,5,1,1,0,6,7,0
+170,F,16,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,yes,4,1,1,0,14,14,14
+171,M,16,Greater than 3,Living together,higher education,father,<2 hours,no,yes,no,yes,no,3,2,4,0,6,5,0
+172,M,16,Greater than 3,Living together,primary education (4th grade),mother,2 to 5 hours,no,yes,yes,yes,yes,4,1,1,2,13,15,16
+173,M,17,Less than or equal to 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,4,1,3,0,13,11,10
+174,F,16,Greater than 3,Living together,primary education (4th grade),mother,2 to 5 hours,no,no,no,yes,yes,4,1,1,0,8,7,0
+175,F,16,Less than or equal to 3,Living together,secondary education,mother,2 to 5 hours,no,yes,yes,yes,no,4,1,1,4,10,11,9
+176,M,17,Less than or equal to 3,Living together,higher education,mother,2 to 5 hours,no,no,yes,yes,no,4,4,4,4,10,9,9
+177,F,16,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,no,yes,yes,no,3,1,4,2,13,13,11
+178,M,17,Greater than 3,Living together,secondary education,father,2 to 5 hours,no,no,no,yes,no,4,1,4,4,6,5,6
+179,M,16,Greater than 3,Living together,higher education,mother,<2 hours,no,yes,no,yes,yes,4,3,4,10,10,8,9
+180,M,17,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,no,yes,yes,5,1,1,4,10,10,11
+181,M,16,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,3,2,3,10,9,8,8
+182,M,16,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,no,yes,yes,yes,4,1,2,2,12,13,12
+183,F,17,Greater than 3,Living together,higher education,father,2 to 5 hours,no,yes,no,yes,no,5,2,3,0,16,17,17
+184,F,17,Less than or equal to 3,Living together,secondary education,mother,2 to 5 hours,no,yes,no,yes,yes,5,2,3,56,9,9,8
+185,F,16,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,yes,yes,yes,no,1,1,2,14,12,13,12
+186,M,17,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,yes,no,yes,yes,4,2,3,12,12,12,11
+187,M,16,Greater than 3,Living together,primary education (4th grade),mother,<2 hours,no,yes,yes,yes,yes,3,1,2,2,11,12,11
+188,M,16,Less than or equal to 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,no,yes,yes,yes,4,1,2,0,15,15,15
+189,F,17,Greater than 3,Apart,secondary education,mother,2 to 5 hours,no,yes,no,yes,yes,3,1,3,6,8,7,9
+190,M,17,Greater than 3,Living together,primary education (4th grade),mother,2 to 5 hours,no,no,no,yes,no,3,1,5,4,8,9,10
+191,F,16,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,no,no,yes,no,4,1,1,10,11,12,13
+192,F,17,Greater than 3,Living together,primary education (4th grade),mother,2 to 5 hours,no,no,no,yes,no,5,1,1,0,8,8,9
+193,M,17,Greater than 3,Living together,primary education (4th grade),other,2 to 5 hours,no,no,yes,yes,no,4,4,5,12,7,8,8
+194,M,16,Greater than 3,Living together,secondary education,mother,<2 hours,no,yes,no,yes,no,4,3,4,8,8,9,10
+195,M,16,Greater than 3,Living together,secondary education,father,<2 hours,no,no,no,yes,no,5,1,1,0,13,14,14
+196,F,17,Less than or equal to 3,Living together,higher education,father,2 to 5 hours,no,no,no,yes,yes,4,1,1,0,14,15,15
+197,M,17,Greater than 3,Living together,higher education,mother,<2 hours,no,no,no,yes,no,5,1,2,4,17,15,16
+198,M,16,Less than or equal to 3,Living together,secondary education,father,<2 hours,no,yes,yes,yes,no,3,3,5,8,9,9,10
+199,F,17,Greater than 3,Living together,higher education,mother,<2 hours,no,yes,no,yes,no,4,2,3,24,18,18,18
+200,F,16,Less than or equal to 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,4,1,2,0,9,9,10
+201,F,16,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,no,yes,no,4,1,5,2,16,16,16
+202,F,16,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,yes,yes,yes,yes,no,4,1,3,6,8,10,10
+203,F,17,Greater than 3,Living together,primary education (4th grade),mother,2 to 5 hours,no,yes,yes,yes,no,4,1,3,4,9,9,10
+204,F,17,Greater than 3,Living together,grade 5th to 9th,mother,<2 hours,no,yes,no,yes,no,5,1,2,18,7,6,6
+205,F,16,Greater than 3,Living together,grade 5th to 9th,mother,>10 hours,no,yes,yes,yes,no,5,1,1,6,10,10,11
+206,F,17,Greater than 3,Living together,secondary education,mother,5 to 10 hours,no,yes,yes,yes,yes,4,3,4,28,10,9,9
+207,F,16,Greater than 3,Apart,secondary education,mother,2 to 5 hours,no,yes,yes,yes,no,2,2,2,5,7,7,7
+208,F,16,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,no,yes,yes,yes,1,1,1,10,11,12,13
+209,F,16,Greater than 3,Living together,primary education (4th grade),mother,<2 hours,no,yes,yes,yes,no,4,1,4,6,9,9,10
+210,F,17,Greater than 3,Living together,higher education,mother,5 to 10 hours,no,yes,yes,yes,yes,4,1,1,6,7,7,7
+211,F,19,Greater than 3,Living together,secondary education,other,>10 hours,no,yes,yes,yes,no,4,1,2,10,8,8,8
+212,M,17,Less than or equal to 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,yes,5,4,5,13,12,12,13
+213,F,16,Greater than 3,Apart,grade 5th to 9th,mother,2 to 5 hours,yes,yes,yes,yes,no,3,1,1,0,12,13,14
+214,M,18,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,yes,yes,yes,no,4,2,4,15,6,7,8
+215,F,17,Less than or equal to 3,Living together,higher education,mother,<2 hours,no,yes,yes,yes,no,5,1,2,12,8,10,10
+216,F,17,Less than or equal to 3,Living together,secondary education,mother,2 to 5 hours,no,no,yes,yes,no,4,1,3,2,14,15,15
+217,F,17,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,no,yes,yes,yes,3,2,4,22,6,6,4
+218,M,18,Less than or equal to 3,Living together,secondary education,father,2 to 5 hours,no,yes,yes,yes,no,3,2,4,13,6,6,8
+219,F,17,Greater than 3,Living together,secondary education,father,<2 hours,no,yes,yes,yes,no,3,1,4,3,7,7,8
+220,F,17,Greater than 3,Living together,grade 5th to 9th,mother,5 to 10 hours,no,yes,yes,yes,no,4,1,1,4,9,10,10
+221,F,17,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,yes,no,yes,no,4,1,2,2,6,6,6
+222,F,17,Greater than 3,Living together,primary education (4th grade),mother,5 to 10 hours,no,yes,no,yes,yes,4,1,1,0,6,5,0
+223,F,16,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,yes,no,no,yes,no,2,1,1,2,16,16,17
+224,M,18,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,yes,yes,yes,no,3,5,5,0,12,13,13
+225,F,16,Greater than 3,Living together,higher education,mother,5 to 10 hours,no,yes,no,yes,no,5,1,1,0,13,13,14
+226,F,18,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,no,no,yes,yes,5,1,1,16,9,8,7
+227,F,17,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,no,no,yes,no,5,1,3,10,16,15,15
+228,M,17,Less than or equal to 3,Living together,secondary education,father,2 to 5 hours,no,yes,yes,yes,no,5,1,3,2,12,11,12
+229,M,18,Less than or equal to 3,Living together,grade 5th to 9th,mother,2 to 5 hours,yes,yes,yes,yes,yes,4,4,5,14,10,8,9
+230,F,17,Greater than 3,Apart,grade 5th to 9th,mother,5 to 10 hours,no,no,no,yes,yes,3,1,2,10,12,10,12
+231,F,17,Less than or equal to 3,Living together,secondary education,father,2 to 5 hours,no,no,no,yes,yes,3,1,2,14,13,13,14
+232,M,17,Greater than 3,Living together,grade 5th to 9th,father,2 to 5 hours,no,yes,yes,yes,no,4,1,1,4,11,11,11
+233,M,17,Greater than 3,Living together,higher education,mother,2 to 5 hours,yes,yes,no,yes,yes,4,1,3,14,11,9,9
+234,M,16,Greater than 3,Living together,higher education,father,2 to 5 hours,no,yes,yes,yes,no,4,2,4,2,14,13,13
+235,M,16,Less than or equal to 3,Living together,primary education (4th grade),mother,2 to 5 hours,no,yes,yes,yes,no,3,1,1,18,9,7,6
+236,M,16,Greater than 3,Living together,secondary education,mother,5 to 10 hours,no,no,no,yes,yes,5,1,3,10,11,9,10
+237,M,17,Less than or equal to 3,Living together,grade 5th to 9th,father,2 to 5 hours,no,no,yes,yes,yes,4,5,5,4,14,13,13
+238,F,16,Greater than 3,Living together,grade 5th to 9th,mother,<2 hours,no,no,no,yes,yes,4,1,1,20,13,12,12
+239,F,17,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,no,no,yes,no,2,1,1,2,13,11,11
+240,M,18,Greater than 3,Living together,grade 5th to 9th,father,2 to 5 hours,no,no,no,no,no,5,3,5,0,7,7,0
+241,M,17,Less than or equal to 3,Living together,higher education,mother,2 to 5 hours,no,no,no,yes,yes,2,1,4,14,12,12,12
+242,M,17,Less than or equal to 3,Apart,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,3,2,3,2,10,11,12
+243,M,16,Less than or equal to 3,Living together,higher education,mother,<2 hours,no,no,no,yes,no,5,1,1,0,6,0,0
+244,M,16,Greater than 3,Living together,higher education,mother,<2 hours,no,no,no,yes,no,5,1,2,0,13,12,12
+245,F,18,Greater than 3,Living together,secondary education,other,5 to 10 hours,no,yes,yes,yes,yes,4,1,1,0,7,0,0
+246,M,16,Greater than 3,Living together,grade 5th to 9th,mother,<2 hours,no,no,no,yes,no,4,1,1,6,18,18,18
+247,M,17,Greater than 3,Living together,secondary education,father,<2 hours,no,no,no,yes,no,5,1,1,4,12,12,13
+248,M,22,Greater than 3,Living together,secondary education,mother,<2 hours,no,no,no,no,yes,5,5,5,16,6,8,8
+249,M,18,Less than or equal to 3,Living together,secondary education,mother,2 to 5 hours,no,yes,no,yes,yes,4,1,3,8,3,5,5
+250,M,16,Greater than 3,Living together,secondary education,mother,<2 hours,no,no,yes,yes,no,4,2,4,0,13,15,15
+251,M,18,Greater than 3,Living together,secondary education,mother,<2 hours,no,no,no,no,no,4,2,4,0,6,8,8
+252,M,16,Greater than 3,Living together,higher education,other,2 to 5 hours,yes,yes,no,yes,no,5,1,3,6,7,10,10
+253,M,18,Greater than 3,Living together,grade 5th to 9th,mother,<2 hours,no,no,no,no,no,3,2,5,4,6,9,8
+254,M,16,Greater than 3,Living together,grade 5th to 9th,mother,<2 hours,no,no,no,yes,no,3,1,3,0,8,9,8
+255,M,17,Greater than 3,Living together,grade 5th to 9th,mother,<2 hours,no,no,no,yes,no,4,2,4,0,8,12,12
+256,M,17,Less than or equal to 3,Living together,primary education (4th grade),mother,<2 hours,no,yes,no,yes,no,4,1,2,2,7,9,8
+257,F,17,Less than or equal to 3,Living together,higher education,mother,>10 hours,no,yes,yes,yes,no,4,1,1,6,14,12,13
+258,M,19,Less than or equal to 3,Apart,higher education,mother,2 to 5 hours,no,yes,no,yes,no,4,1,1,12,11,11,11
+259,M,18,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,no,no,yes,no,5,1,2,8,15,14,14
+260,F,17,Less than or equal to 3,Living together,grade 5th to 9th,father,>10 hours,no,no,yes,yes,yes,3,1,1,0,10,9,0
+261,F,18,Greater than 3,Living together,secondary education,father,2 to 5 hours,no,yes,yes,yes,yes,3,1,3,21,17,18,18
+262,M,18,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,4,1,1,2,8,8,8
+263,M,18,Greater than 3,Living together,secondary education,mother,5 to 10 hours,no,no,no,yes,no,5,1,1,1,13,12,12
+264,F,17,Greater than 3,Living together,secondary education,mother,5 to 10 hours,no,no,no,yes,no,3,1,1,4,10,9,9
+265,F,18,Greater than 3,Living together,grade 5th to 9th,mother,5 to 10 hours,no,yes,yes,yes,yes,4,1,1,0,9,10,0
+266,M,18,Less than or equal to 3,Apart,secondary education,mother,2 to 5 hours,no,yes,yes,yes,no,4,3,4,13,17,17,17
+267,M,17,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,no,yes,yes,yes,5,3,4,2,9,9,10
+268,F,18,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,no,yes,yes,no,4,2,2,8,12,10,11
+269,M,18,Greater than 3,Living together,grade 5th to 9th,father,2 to 5 hours,no,yes,yes,yes,yes,5,1,3,10,10,9,10
+270,F,18,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,yes,no,no,yes,4,1,2,0,6,0,0
+271,F,19,Greater than 3,Living together,secondary education,other,2 to 5 hours,no,yes,yes,yes,no,4,3,3,15,9,9,9
+272,F,18,Greater than 3,Living together,secondary education,father,>10 hours,no,yes,yes,yes,yes,4,1,3,4,15,14,14
+273,F,18,Less than or equal to 3,Living together,primary education (4th grade),mother,2 to 5 hours,no,yes,yes,yes,no,4,1,1,2,11,11,11
+274,M,17,Greater than 3,Living together,primary education (4th grade),mother,2 to 5 hours,no,yes,yes,yes,yes,3,2,2,2,15,14,14
+275,F,17,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,yes,yes,yes,yes,4,1,1,2,10,10,10
+276,F,17,Less than or equal to 3,Living together,grade 5th to 9th,mother,2 to 5 hours,yes,yes,yes,yes,yes,4,2,3,6,12,12,12
+277,F,18,Greater than 3,Apart,secondary education,mother,2 to 5 hours,no,no,no,no,yes,4,1,1,75,10,9,9
+278,M,18,Greater than 3,Living together,higher education,mother,<2 hours,no,no,yes,yes,no,3,1,4,22,9,9,9
+279,F,18,Greater than 3,Living together,higher education,father,2 to 5 hours,yes,yes,no,yes,yes,2,1,1,15,9,8,8
+280,M,18,Less than or equal to 3,Living together,higher education,mother,<2 hours,no,no,yes,yes,no,4,1,2,8,10,11,10
+281,M,17,Less than or equal to 3,Apart,higher education,mother,<2 hours,no,no,yes,yes,yes,4,2,4,30,8,8,8
+282,M,17,Less than or equal to 3,Apart,secondary education,mother,<2 hours,no,no,no,yes,no,4,3,4,19,11,9,10
+283,F,18,Less than or equal to 3,Living together,primary education (4th grade),mother,>10 hours,no,yes,yes,yes,no,5,1,1,1,12,12,12
+284,F,18,Greater than 3,Living together,primary education (4th grade),mother,2 to 5 hours,yes,no,no,yes,no,5,1,1,4,8,9,10
+285,F,17,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,yes,no,yes,no,5,1,2,4,10,9,11
+286,M,17,Greater than 3,Living together,primary education (4th grade),father,2 to 5 hours,no,no,yes,yes,no,4,1,2,2,12,10,11
+287,F,18,Greater than 3,Living together,grade 5th to 9th,mother,5 to 10 hours,no,yes,yes,yes,no,4,1,2,5,18,18,19
+288,F,17,Greater than 3,Living together,primary education (4th grade),mother,5 to 10 hours,no,yes,yes,yes,no,4,1,1,6,13,12,12
+289,M,18,Greater than 3,Living together,grade 5th to 9th,mother,5 to 10 hours,no,no,yes,yes,no,4,1,3,6,15,14,14
+290,M,18,Less than or equal to 3,Apart,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,5,1,1,9,15,13,15
+291,M,18,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,yes,yes,yes,yes,4,1,4,11,12,11,11
+292,F,17,Greater than 3,Living together,higher education,mother,5 to 10 hours,no,yes,yes,yes,no,4,1,2,0,15,15,15
+293,F,18,Less than or equal to 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,no,no,yes,yes,5,1,1,12,12,12,13
+294,F,17,Less than or equal to 3,Living together,secondary education,mother,>10 hours,no,yes,yes,yes,no,3,1,1,6,18,18,18
+295,M,18,Less than or equal to 3,Living together,secondary education,mother,5 to 10 hours,no,yes,yes,yes,no,5,1,1,8,14,13,14
+296,M,17,Greater than 3,Living together,secondary education,mother,<2 hours,no,yes,yes,yes,no,4,1,3,4,14,12,11
+297,F,19,Greater than 3,Living together,higher education,other,2 to 5 hours,no,yes,yes,yes,no,2,2,3,0,10,9,0
+298,F,18,Less than or equal to 3,Living together,primary education (4th grade),other,2 to 5 hours,no,yes,yes,yes,yes,4,1,2,10,10,8,8
+299,F,18,Greater than 3,Living together,secondary education,father,>10 hours,no,yes,yes,yes,no,4,1,1,0,14,13,14
+300,M,18,Less than or equal to 3,Living together,higher education,mother,<2 hours,no,yes,yes,yes,yes,1,2,2,5,16,15,16
+301,F,18,Less than or equal to 3,Apart,higher education,mother,2 to 5 hours,no,yes,no,yes,yes,4,1,1,14,12,10,11
+302,M,17,Less than or equal to 3,Living together,higher education,father,<2 hours,no,no,yes,yes,no,4,2,2,0,11,11,10
+303,F,17,Greater than 3,Living together,higher education,mother,5 to 10 hours,no,yes,yes,yes,no,4,1,1,0,15,12,14
+304,F,17,Greater than 3,Living together,grade 5th to 9th,father,>10 hours,no,yes,yes,yes,no,5,1,2,0,17,17,18
+305,M,19,Greater than 3,Living together,grade 5th to 9th,other,2 to 5 hours,no,yes,no,yes,yes,4,1,1,20,15,14,13
+306,F,18,Greater than 3,Living together,primary education (4th grade),other,2 to 5 hours,no,yes,yes,yes,no,4,1,1,8,14,12,12
+307,M,20,Greater than 3,Apart,primary education (4th grade),other,<2 hours,no,no,no,yes,no,5,1,1,0,17,18,18
+308,M,19,Greater than 3,Living together,secondary education,other,<2 hours,no,yes,yes,yes,yes,4,1,1,38,8,9,8
+309,M,19,Greater than 3,Living together,secondary education,father,2 to 5 hours,no,no,no,yes,yes,4,1,2,0,15,12,12
+310,F,19,Less than or equal to 3,Living together,grade 5th to 9th,other,2 to 5 hours,yes,yes,no,yes,no,4,1,3,18,12,10,10
+311,F,19,Less than or equal to 3,Living together,grade 5th to 9th,other,2 to 5 hours,no,no,no,yes,yes,4,2,2,0,9,9,0
+312,F,19,Greater than 3,Living together,grade 5th to 9th,other,2 to 5 hours,no,yes,no,no,yes,3,1,1,20,14,12,13
+313,M,19,Greater than 3,Living together,primary education (4th grade),other,2 to 5 hours,no,no,no,yes,no,4,2,2,3,13,11,11
+314,F,19,Less than or equal to 3,Living together,secondary education,other,2 to 5 hours,no,yes,yes,yes,yes,4,1,2,22,13,10,11
+315,F,19,Greater than 3,Living together,secondary education,other,5 to 10 hours,no,no,no,yes,yes,4,1,1,14,15,13,13
+316,F,19,Greater than 3,Living together,secondary education,other,5 to 10 hours,no,no,no,yes,yes,4,1,1,40,13,11,11
+317,F,18,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,yes,yes,yes,no,5,1,2,0,8,8,0
+318,F,18,Greater than 3,Living together,higher education,mother,5 to 10 hours,no,yes,yes,yes,yes,4,1,1,9,9,10,9
+319,F,17,Greater than 3,Living together,higher education,father,5 to 10 hours,no,yes,yes,yes,no,4,2,5,0,11,11,10
+320,F,18,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,no,4,3,3,2,11,11,11
+321,F,17,Greater than 3,Apart,higher education,mother,2 to 5 hours,no,yes,yes,yes,yes,5,1,2,23,13,13,13
+322,F,17,Greater than 3,Living together,grade 5th to 9th,mother,2 to 5 hours,no,yes,no,yes,yes,4,1,1,12,11,9,9
+323,F,17,Less than or equal to 3,Living together,grade 5th to 9th,mother,5 to 10 hours,no,yes,yes,yes,no,3,2,2,3,11,11,11
+324,F,17,Greater than 3,Living together,primary education (4th grade),father,5 to 10 hours,no,yes,no,yes,no,3,2,3,1,12,14,15
+325,F,17,Less than or equal to 3,Living together,grade 5th to 9th,father,5 to 10 hours,no,no,no,yes,no,3,2,3,0,16,15,15
+326,M,18,Greater than 3,Living together,higher education,mother,5 to 10 hours,no,no,no,yes,no,4,2,2,3,9,12,11
+327,M,17,Greater than 3,Living together,secondary education,mother,<2 hours,no,no,no,yes,no,4,3,5,3,14,15,16
+328,M,17,Greater than 3,Living together,grade 5th to 9th,mother,<2 hours,no,yes,no,yes,no,4,5,5,8,11,10,10
+329,F,17,Greater than 3,Living together,higher education,mother,5 to 10 hours,no,yes,yes,yes,no,5,1,3,7,10,9,9
+330,F,17,Greater than 3,Living together,higher education,mother,5 to 10 hours,no,yes,yes,yes,yes,4,1,2,4,14,14,14
+331,M,18,Less than or equal to 3,Living together,grade 5th to 9th,mother,>10 hours,no,yes,no,yes,no,4,2,4,2,9,8,8
+332,F,17,Greater than 3,Living together,higher education,father,5 to 10 hours,no,yes,no,yes,yes,4,1,1,7,12,14,14
+333,F,18,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,no,no,yes,no,5,1,1,0,7,0,0
+334,F,18,Less than or equal to 3,Living together,grade 5th to 9th,other,2 to 5 hours,no,no,no,yes,yes,4,1,1,0,8,8,0
+335,F,18,Greater than 3,Living together,grade 5th to 9th,mother,>10 hours,no,no,no,yes,no,4,1,1,0,10,9,0
+336,F,17,Greater than 3,Living together,secondary education,mother,5 to 10 hours,no,no,no,yes,no,4,1,3,16,16,15,15
+337,F,19,Greater than 3,Apart,grade 5th to 9th,other,5 to 10 hours,no,no,yes,yes,no,5,1,2,12,14,13,13
+338,F,17,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,yes,yes,yes,yes,4,2,3,0,7,8,0
+339,F,18,Less than or equal to 3,Living together,secondary education,mother,>10 hours,no,yes,no,yes,no,5,1,1,7,16,15,17
+340,F,17,Greater than 3,Apart,secondary education,mother,2 to 5 hours,no,yes,yes,yes,no,4,2,3,4,9,10,10
+341,F,19,Greater than 3,Living together,grade 5th to 9th,other,5 to 10 hours,no,no,yes,yes,yes,4,1,3,4,11,12,11
+342,M,18,Greater than 3,Living together,higher education,father,2 to 5 hours,no,yes,no,yes,no,4,2,2,0,10,10,0
+343,M,18,Less than or equal to 3,Living together,secondary education,mother,2 to 5 hours,no,no,no,yes,yes,4,1,3,11,16,15,15
+344,F,17,Greater than 3,Apart,grade 5th to 9th,father,2 to 5 hours,no,yes,no,yes,yes,3,1,2,0,9,8,0
+345,F,18,Greater than 3,Living together,grade 5th to 9th,mother,5 to 10 hours,no,yes,no,yes,no,4,1,2,4,11,10,10
+346,F,18,Greater than 3,Living together,secondary education,mother,5 to 10 hours,no,no,no,yes,yes,5,2,3,7,13,13,14
+347,M,18,Greater than 3,Living together,higher education,mother,5 to 10 hours,no,no,no,yes,yes,5,1,2,9,16,15,16
+348,M,18,Greater than 3,Living together,higher education,mother,5 to 10 hours,no,yes,yes,yes,yes,5,2,3,0,10,10,9
+349,F,17,Greater than 3,Living together,higher education,mother,5 to 10 hours,no,yes,yes,yes,yes,4,1,3,0,13,15,15
+350,M,18,Greater than 3,Living together,secondary education,mother,<2 hours,no,yes,no,yes,no,2,5,5,10,11,13,13
+351,M,19,Greater than 3,Living together,primary education (4th grade),other,2 to 5 hours,no,no,no,yes,no,5,3,3,8,8,7,8
+352,M,17,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,yes,yes,yes,no,4,2,3,2,13,13,13
+353,M,18,Less than or equal to 3,Living together,primary education (4th grade),mother,<2 hours,no,no,no,no,yes,4,2,3,7,8,7,8
+354,M,19,Greater than 3,Living together,primary education (4th grade),other,<2 hours,no,yes,no,yes,no,4,3,3,4,8,8,8
+355,M,17,Greater than 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,yes,4,1,3,4,13,11,11
+356,F,18,Greater than 3,Living together,secondary education,father,2 to 5 hours,no,yes,no,yes,yes,5,1,1,0,10,9,9
+357,F,17,Greater than 3,Living together,higher education,father,2 to 5 hours,no,yes,yes,yes,no,4,1,2,4,12,13,13
+358,F,17,Less than or equal to 3,Apart,secondary education,mother,2 to 5 hours,no,no,no,yes,yes,1,1,2,2,12,12,11
+359,M,18,Less than or equal to 3,Living together,primary education (4th grade),father,<2 hours,no,no,no,yes,yes,3,1,2,4,10,10,10
+360,F,18,Less than or equal to 3,Living together,primary education (4th grade),father,5 to 10 hours,no,no,no,yes,no,5,1,1,0,18,16,16
+361,F,18,Less than or equal to 3,Apart,primary education (4th grade),mother,2 to 5 hours,no,no,no,yes,yes,4,1,4,0,13,13,13
+362,M,18,Less than or equal to 3,Living together,primary education (4th grade),mother,2 to 5 hours,no,no,no,no,no,4,2,3,2,13,12,12
+363,F,18,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,yes,no,yes,yes,4,1,3,0,11,11,10
+364,F,17,Less than or equal to 3,Living together,higher education,mother,2 to 5 hours,no,yes,yes,yes,yes,2,1,1,0,16,15,15
+365,F,17,Greater than 3,Living together,grade 5th to 9th,father,2 to 5 hours,no,no,no,yes,no,3,1,2,0,12,11,12
+366,M,18,Greater than 3,Living together,primary education (4th grade),mother,2 to 5 hours,no,yes,yes,yes,no,3,2,4,4,10,10,10
+367,M,18,Less than or equal to 3,Living together,higher education,mother,5 to 10 hours,no,no,yes,yes,yes,4,2,2,0,13,13,13
+368,F,17,Greater than 3,Living together,primary education (4th grade),mother,<2 hours,no,yes,yes,yes,yes,5,1,2,0,7,6,0
+369,F,18,Greater than 3,Living together,secondary education,father,<2 hours,no,yes,yes,yes,yes,5,1,2,0,11,10,10
+370,F,18,Greater than 3,Living together,higher education,father,2 to 5 hours,no,yes,yes,yes,yes,3,4,2,10,14,12,11
+371,F,19,Less than or equal to 3,Living together,secondary education,other,2 to 5 hours,no,no,no,yes,yes,3,1,1,4,7,7,9
+372,M,18,Less than or equal to 3,Living together,grade 5th to 9th,father,<2 hours,no,yes,yes,no,yes,4,2,3,3,14,12,12
+373,F,17,Greater than 3,Living together,grade 5th to 9th,mother,5 to 10 hours,no,no,no,yes,yes,3,1,1,8,13,11,11
+374,F,17,Greater than 3,Living together,primary education (4th grade),mother,<2 hours,no,no,no,yes,no,3,1,3,14,6,5,5
+375,F,18,Less than or equal to 3,Living together,higher education,mother,5 to 10 hours,no,no,no,yes,no,5,1,1,0,19,18,19
+376,F,18,Greater than 3,Living together,primary education (4th grade),mother,5 to 10 hours,no,no,no,yes,no,4,1,2,2,8,8,10
+377,F,20,Greater than 3,Living together,higher education,other,5 to 10 hours,no,yes,yes,yes,yes,5,1,1,4,15,14,15
+378,F,18,Less than or equal to 3,Living together,higher education,mother,2 to 5 hours,no,no,yes,yes,no,5,3,4,4,8,9,10
+379,F,18,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,no,yes,yes,yes,4,1,2,0,15,15,15
+380,F,17,Greater than 3,Living together,secondary education,mother,2 to 5 hours,no,yes,yes,yes,no,4,2,3,17,10,10,10
+381,M,18,Greater than 3,Living together,higher education,father,2 to 5 hours,no,no,yes,yes,no,3,1,4,4,15,14,14
+382,M,18,Greater than 3,Living together,grade 5th to 9th,mother,<2 hours,no,no,no,yes,yes,4,1,3,5,7,6,7
+383,M,17,Greater than 3,Living together,secondary education,father,2 to 5 hours,no,no,no,yes,no,4,1,1,2,11,11,10
+384,M,19,Greater than 3,Living together,primary education (4th grade),mother,<2 hours,no,no,no,yes,no,4,1,3,0,6,5,0
+385,M,18,Greater than 3,Living together,grade 5th to 9th,father,<2 hours,no,no,yes,yes,no,5,4,3,14,6,5,5
+386,F,18,Greater than 3,Living together,grade 5th to 9th,mother,5 to 10 hours,no,no,yes,yes,no,5,1,3,2,10,9,10
+387,F,18,Greater than 3,Living together,higher education,mother,<2 hours,no,yes,yes,yes,yes,4,2,2,7,6,5,6
+388,F,19,Greater than 3,Living together,secondary education,mother,5 to 10 hours,no,no,no,yes,no,5,1,2,0,7,5,0
+389,F,18,Less than or equal to 3,Living together,secondary education,mother,2 to 5 hours,no,yes,yes,yes,no,4,1,1,0,7,9,8
+390,F,18,Greater than 3,Living together,primary education (4th grade),mother,2 to 5 hours,no,no,no,yes,no,1,1,1,0,6,5,0
+391,M,20,Less than or equal to 3,Apart,grade 5th to 9th,other,2 to 5 hours,no,yes,yes,yes,no,5,4,5,11,9,9,9
+392,M,17,Less than or equal to 3,Living together,secondary education,mother,<2 hours,no,no,no,yes,no,2,3,4,3,14,16,16
+393,M,21,Greater than 3,Living together,primary education (4th grade),other,<2 hours,no,no,no,yes,no,5,3,3,3,10,8,7
+394,M,18,Less than or equal to 3,Living together,secondary education,mother,<2 hours,no,no,no,yes,no,4,3,4,0,11,12,10
+395,M,19,Less than or equal to 3,Living together,primary education (4th grade),father,<2 hours,no,no,no,yes,no,3,3,3,5,8,9,9
