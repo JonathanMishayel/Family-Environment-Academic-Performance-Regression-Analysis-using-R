@@ -25,9 +25,14 @@ High School Student Performance & Demographics Dataset (Kaggle)
 - Multiple Linear Regression
 
 ## Report
+
 Full report available in the `/report` folder.
+
 ---
 👨‍💻 Author
 
 Jonathan Mishayel
+
 Data Science Student | Data Analyst Enthusiat
+
+@2024
